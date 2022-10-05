@@ -75,12 +75,12 @@
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/Drink2go">Drink2go</a></td>
 <td>Drink2Go is an online coffee drink store.</td>
-<td>JavaScript (ES6), Fetch API, Leaflet.js, Webpack</td>
+<td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/1959447-keksobooking-26">Keksobooking</a></td>
 <td>Website which shows the living-places where you can stay during your holidays in Japan</td>
-<td>JavaScript (ES6), Fetch API, Leaflet.js, Webpack</td>
+<td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Sedona</a></td>
