@@ -2,16 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <br>
 
+<p align="center">  
 <a href="https://github.com/ElenaMihailova">
-<img align="center" alt="Elena's Github" width="48px" src="https://user-images.githubusercontent.com/96042722/194076035-fe6ced61-088c-4302-b616-6c21e5542f0b.svg" style="max-width: 100%;">
+<img alt="Elena's Github" width="48px" src="https://user-images.githubusercontent.com/96042722/194076035-fe6ced61-088c-4302-b616-6c21e5542f0b.svg" style="max-width: 100%;">
 </a>
-
 <a href="https://t.me/Elena_Mihailova_tm" rel="nofollow">
-<img align="center" alt="Elena's Telegram" width="48px" src="https://user-images.githubusercontent.com/96042722/194076220-46ca2144-4110-4eb1-a86d-1c6facef307e.svg" style="max-width: 100%;"></a>
-
+<img alt="Elena's Telegram" width="48px" src="https://user-images.githubusercontent.com/96042722/194076220-46ca2144-4110-4eb1-a86d-1c6facef307e.svg" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/elena.mikhailova.77">
-<img align="center" src="https://user-images.githubusercontent.com/96042722/194076727-7077d8c1-bc1d-4cab-84b3-a16f7664fab9.svg" alt="Elena's facebook" width="48px"/></a>
-<br>
+<img src="https://user-images.githubusercontent.com/96042722/194076727-7077d8c1-bc1d-4cab-84b3-a16f7664fab9.svg" alt="Elena's facebook" width="48px"/></a>
+   </p>
 <h3 align="center">I'm frontend developer. Here you can read some info about me and check my projects.</h3>
 <!-- <p align="center"> Skills: HTML / CSS / REACT / JS </p> -->
 <table align="center">
@@ -30,7 +29,7 @@
 </tr>
 <tr>
 <td>Frontend:</td>
-<td>React</td>
+<td>React, JS</td>
 </tr>
 <tr>
 <td>Code bundlers:</td>
@@ -47,7 +46,4 @@
  </div>
  -->
 
-![facebook](https://user-images.githubusercontent.com/96042722/194076465-a3d9b7ff-fed9-43ba-bfbc-4ebe271d384b.svg)
-
-![facebook](https://user-images.githubusercontent.com/96042722/194076727-7077d8c1-bc1d-4cab-84b3-a16f7664fab9.svg)
 
