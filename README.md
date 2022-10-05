@@ -78,13 +78,13 @@
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Webpack</td>
 </tr>
 <tr>
-<td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Sedona</a></td>
+<td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Gllacy shop</a></td>
 <td>The city's website</td>
 <td>HTML, LESS, JavaScript (ES6), Gulp</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ElenaMihailova/1959447-gllacy-33">Sedona</a></td>
-<td>Online ice cream store</td>
+<td>Online and offline store for the sale of ice cream of its own production</td>
 <td>HTML, CSS, Gulp</td>
 </tr>
 </tbody>
