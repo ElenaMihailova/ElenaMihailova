@@ -14,13 +14,15 @@
 <br>
 <h3 align="center">I'm frontend developer. Here you can read some info about me and check my projects.</h3>
 <p align="center"> Skills: HTML / CSS / REACT / JS </p>
-
-<img href="https://user-images.githubusercontent.com/96042722/194026899-a4afe273-9ad9-4035-ae17-57777e171ef3.jpg" width="100px" />
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/96042722/194026899-a4afe273-9ad9-4035-ae17-57777e171ef3.jpg" width="30%" height="auto" />
+ </div>
 
 <!--
 **ElenaMihailova/ElenaMihailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
