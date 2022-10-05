@@ -13,11 +13,13 @@
    </p>
 <h3 align="center">I'm frontend developer. Here you can read some info about me and check my projects.</h3>
 <!-- <p align="center"> Skills: HTML / CSS / REACT / JS </p> -->
+
+
 <table align="center">
 <thead>
 <tr>
 <th>
-   <img src="https://user-images.githubusercontent.com/96042722/194040978-ac9a4c37-7893-4fd1-8aa8-0917dd34c320.svg" width="40px">  
+   <img src="https://user-images.githubusercontent.com/96042722/194084722-833fe5af-974f-4686-8635-74cfe3629202.svg" width="40px">  
   </th>
 <th></th>
 </tr>
@@ -46,9 +48,40 @@
  </div>
  -->
  
- <h3 dir="auto">
-   <a id="user-content--some-of-my-projects" class="anchor" aria-hidden="true" href="#-some-of-my-projects">
-   <img src="https://user-images.githubusercontent.com/96042722/194080287-90cfbe60-a36c-4c65-94c8-6308b735620e.svg" width="100px"/>
-      Some of my projects:</h3>
-
+ <h3 dir="auto" align="center">
+   <img  align="center" src="https://user-images.githubusercontent.com/96042722/194080287-90cfbe60-a36c-4c65-94c8-6308b735620e.svg" width="50px"/>
+    Some of my projects:</h3>
+    
+    
+<table>
+<thead>
+<tr>
+<th>Project name</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="#">Name</a></td>
+<td>App on React</td>
+<td>SPA on React.js, Fetch API, Leaflet.js </td>
+</tr>
+<tr>
+<td><a href="#">Name</a></td>
+<td>text.</td>
+<td>text</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ElenaMihailova/1959447-keksobooking-26">Keksobooking</a></td>
+<td>Website which shows the living-places where you can stay during your holidays in Japan</td>
+<td>JavaScript (ES6), Fetch API, Leaflet.js, Webpack</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Sedona</a></td>
+<td>The city's website</td>
+<td>HTML, LESS, JavaScript (ES6), Gulp</td>
+</tr>
+</tbody>
+</table>
 
