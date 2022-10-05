@@ -45,5 +45,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/96042722/194026899-a4afe273-9ad9-4035-ae17-57777e171ef3.jpg" width="30%" height="auto" />
  </div>
  -->
+ 
+ <h3 dir="auto">
+   <a id="user-content--some-of-my-projects" class="anchor" aria-hidden="true" href="#-some-of-my-projects">
+   <img src="https://user-images.githubusercontent.com/96042722/194080287-90cfbe60-a36c-4c65-94c8-6308b735620e.svg" width="100px"/>
+      Some of my projects:</h3>
 
 
