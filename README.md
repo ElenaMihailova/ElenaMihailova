@@ -14,6 +14,8 @@
 <br>
 <h3 align="center">I'm frontend developer. Here you can read some info about me and check my projects.</h3>
 <p align="center"> Skills: HTML / CSS / REACT / JS </p>
+
+<img href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets" width="100px" />
 <!--
 **ElenaMihailova/ElenaMihailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![photo_2021-07-18_22-06-04](https://user-images.githubusercontent.com/96042722/194026432-69fa2b86-2feb-468d-970c-86dccf140b0e.jpg)
+-->
 
 
