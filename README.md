@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Elena Mihailova. 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center" style="width: 50%">
+  <br>
 <a href="https://github.com/ElenaMihailova" style="margin-right: 30px">
   <img alt="Elena's Github" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">
 </a>
@@ -13,7 +14,35 @@
 </div>
 <br>
 <h3 align="center">I'm frontend developer. Here you can read some info about me and check my projects.</h3>
-<p align="center"> Skills: HTML / CSS / REACT / JS </p>
+<!-- <p align="center"> Skills: HTML / CSS / REACT / JS </p> -->
+<table align="center">
+<thead>
+<tr>
+<th>
+   <img src="https://user-images.githubusercontent.com/96042722/194040978-ac9a4c37-7893-4fd1-8aa8-0917dd34c320.svg" width="40px">  
+  </th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Responsive web-development:</td>
+<td>HTML5, CSS/LESS</td>
+</tr>
+<tr>
+<td>Frontend:</td>
+<td>React</td>
+</tr>
+<tr>
+<td>Code bundlers:</td>
+<td>Gulp, Webpack</td>
+</tr>
+<tr>
+<td>UX/UI:</td>
+<td>Figma</td>
+</tr>
+</tbody>
+</table>
 <!-- <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/96042722/194026899-a4afe273-9ad9-4035-ae17-57777e171ef3.jpg" width="30%" height="auto" />
  </div>
@@ -33,6 +62,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
