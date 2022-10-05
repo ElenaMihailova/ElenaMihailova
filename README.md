@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td>Frontend:</td>
-<td>React, JS</td>
+<td>JS, React</td>
 </tr>
 <tr>
 <td>Code bundlers:</td>
