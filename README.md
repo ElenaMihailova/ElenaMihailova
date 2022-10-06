@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td>UX/UI:</td>
-<td>Figma, Adobe Photoshop, Adobe XD</td>
+<td>Figma, Adobe Photoshop </td>
 </tr>
 </tbody>
 </table>
