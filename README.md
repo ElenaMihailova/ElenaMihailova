@@ -80,7 +80,7 @@
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/Smart-Device">Smart Device</a></td>
 <td>Website of a company that supplies electronic components.</td>
-<td>JavaScript (ES6), Fetch API, Webpack</td>
+<td>HTML, SCSS, JavaScript (ES6), Fetch API, Webpack</td>
 </tr>
 <tr> 
 <tr> 
