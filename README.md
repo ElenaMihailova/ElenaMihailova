@@ -79,7 +79,7 @@
 </tr>
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/Smart-Device">Smart Device</a></td>
-<td>Smart Device is an online electronics store.</td>
+<td>Website of a company that supplies electronic components.</td>
 <td>JavaScript (ES6), Fetch API, Webpack</td>
 </tr>
 <tr> 
