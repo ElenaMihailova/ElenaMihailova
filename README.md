@@ -78,6 +78,12 @@
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr> 
+<td><a href="https://github.com/ElenaMihailova/Smart-Device">Smart Device</a></td>
+<td>Smart Device is an online electronics store.</td>
+<td>JavaScript (ES6), Fetch API, Webpack</td>
+</tr>
+<tr> 
+<tr> 
 <td><a href="https://github.com/ElenaMihailova/1959447-keksobooking-26">Keksobooking</a></td>
 <td>Website which shows the living-places where you can stay during your holidays in Japan</td>
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
