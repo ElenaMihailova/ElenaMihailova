@@ -78,7 +78,7 @@
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr> 
-<td><a href="https://github.com/ElenaMihailova/Drink2go">Круизы в Антарктику</a></td>
+<td><a href="https://github.com/ElenaMihailova/Cruise-to-Antarctica"</a></td>
 <td>Сайт туристического проекта “Круизы в Антарктику”.</td>
 <td>HTML, SCSS, JavaScript (ES6), Fetch API, Gulp</td>
 </tr>
