@@ -72,12 +72,11 @@
 <td>text.</td>
 <td>text</td>
 </tr>  -->
-<tr> 
-<td><a href="https://github.com/ElenaMihailova/Drink2go">Drink2go</a></td>
-<td>Drink2Go is an online coffee drink store.</td>
-<td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
+<td><a href="https://elenamihailova.github.io/Fitness-center/">Фитнес-центр SUPERGYM</a></td>
+<td>Сайт фитнес-центра.</td>
+<td>HTML, SCSS, JavaScript (ES6), Fetch API, Gulp</td>
 </tr>
-<tr> 
+ <tr> 
 <td><a href="https://github.com/ElenaMihailova/Cruise-to-Antarctica">Круизы в Антарктику</a></td>
 <td>Сайт туристического проекта “Круизы в Антарктику”.</td>
 <td>HTML, SCSS, JavaScript (ES6), Fetch API, Gulp</td>
@@ -86,6 +85,11 @@
 <td><a href="https://github.com/ElenaMihailova/Smart-Device">Smart Device</a></td>
 <td>Website of a company that supplies electronic components.</td>
 <td>HTML, SCSS, JavaScript (ES6), Fetch API, Webpack</td>
+</tr>
+<tr> 
+<td><a href="https://github.com/ElenaMihailova/Drink2go">Drink2go</a></td>
+<td>Drink2Go is an online coffee drink store.</td>
+<td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr> 
 <tr> 
