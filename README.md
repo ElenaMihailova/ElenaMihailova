@@ -74,7 +74,7 @@
 </tr>  -->
 <td><a href="https://github.com/ElenaMihailova/Fitness-center">Фитнес-центр SUPERGYM</a></td>
 <td>Сайт фитнес-центра.</td>
-<td>HTML, SCSS, JavaScript (ES6), Fetch API, Gulp</td>
+<td>HTML, SCSS, JavaScript (ES6), animation, Fetch API, Gulp</td>
 </tr>
  <tr> 
 <td><a href="https://github.com/ElenaMihailova/Cruise-to-Antarctica">Круизы в Антарктику</a></td>
