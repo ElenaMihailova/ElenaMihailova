@@ -49,7 +49,7 @@
  -->
  
  <h3 dir="auto" align="center">
-   <img  align="center" src="https://user-images.githubusercontent.com/96042722/213880253-9c1acf99-b788-48ae-9ec7-873e986a16c3.svg" width="50px"/>
+   <img  align="center" src="https://user-images.githubusercontent.com/96042722/213880253-9c1acf99-b788-48ae-9ec7-873e986a16c3.svg" width="100px"/>
     Some of my projects:</h3>
     
     
