@@ -72,8 +72,8 @@
 <td>text.</td>
 <td>text</td>
 </tr>  -->
-<td><a href="https://elenamihailova.github.io/Fitness-center/">Фитнес-центр SUPERGYM</a></td>
-<td> <a href="https://github.com/ElenaMihailova/Fitness-center/"> Сайт фитнес-центра. </a></td>
+<td><a href="https://github.com/ElenaMihailova/Fitness-center/">Фитнес-центр SUPERGYM</a></td>
+<td> <a href="https://elenamihailova.github.io/Fitness-center/"> Сайт фитнес-центра. </a></td>
 <td>HTML, SCSS, JavaScript (ES6), animation, Fetch API, Gulp</td>
 </tr>
  <tr> 
