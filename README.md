@@ -78,28 +78,28 @@
 </tr>
  <tr> 
 <td><a href="https://github.com/ElenaMihailova/Cruise-to-Antarctica">Круизы в Антарктику</a></td>
-<td>Сайт туристического проекта “Круизы в Антарктику”.</td>
+<td><a href="https://elenamihailova.github.io/Cruise-to-Antarctica/"> Сайт туристического проекта “Круизы в Антарктику”.</a></td>
 <td>HTML, SCSS, JavaScript (ES6), Fetch API, Gulp</td>
 </tr>
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/Smart-Device">Smart Device</a></td>
-<td>Website of a company that supplies electronic components.</td>
+<td> <a href="https://elenamihailova.github.io/Test-Smart-/"> Website of a company that supplies electronic components.</a></td>
 <td>HTML, SCSS, JavaScript (ES6), Fetch API, Webpack</td>
 </tr>
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/Drink2go">Drink2go</a></td>
-<td>Drink2Go is an online coffee drink store.</td>
+<td><a href="https://elenamihailova.github.io/Drink2go/">Drink2Go is an online coffee drink store.</a></td>
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr> 
 <tr> 
 <td><a href="https://github.com/ElenaMihailova/1959447-keksobooking-26">Keksobooking</a></td>
-<td>Website which shows the living-places where you can stay during your holidays in Japan</td>
+<td><a href="https://elenamihailova.github.io/1959447-keksobooking-26/"> Website which shows the living-places where you can stay during your holidays in Japan<a/></td>
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Sedona</a></td>
-<td>The city's website</td>
+   <td><a href="https://elenamihailova.github.io/1959447-sedona-26/">The city's website</a></td>
 <td>HTML, LESS, JavaScript (ES6), Gulp</td>
 </tr>
 <!-- <tr>
