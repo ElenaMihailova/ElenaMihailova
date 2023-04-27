@@ -27,7 +27,7 @@
 <tbody>
 <tr>
 <td>Responsive web-development:</td>
-<td>HTML5, CSS/LESS/SCSS</td>
+<td>HTML5, CSS/LESS/SCSS, PUG, Tailwind</td>
 </tr>
 <tr>
 <td>Frontend:</td>
