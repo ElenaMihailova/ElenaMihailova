@@ -73,7 +73,7 @@
 <td>text</td>
 </tr>  -->
    <td><a href="https://github.com/ElenaMihailova/RSS-ECOMM/tree/develop">eCommerce Application</a></td>
-<td> <a href="https://ecommerce-tea.netlify.app"> Tea shop "FronTea" </a></td>
+<td> <a href="https://ecommerce-tea.netlify.app"> Tea shop "FronTea". </a></td>
 <td>JavaScript / TypeScript, Webpack, ESLint, Prettier,Jest</td>
  </tr>
  <tr>
