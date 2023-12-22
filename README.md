@@ -72,6 +72,11 @@
 <td>text.</td>
 <td>text</td>
 </tr>  -->
+   <td><a href="https://github.com/ElenaMihailova/RSS-ECOMM/tree/develop">eCommerce Application</a></td>
+<td> <a href="https://ecommerce-tea.netlify.app"> Tea shop "FronTea" </a></td>
+<td>JavaScript / TypeScript, Webpack, ESLint, Prettier,Jest</td>
+ </tr>
+ <tr>
 <td><a href="https://github.com/ElenaMihailova/Fitness-center/">Фитнес-центр SUPERGYM</a></td>
 <td> <a href="https://elenamihailova.github.io/Fitness-center/"> Сайт фитнес-центра. </a></td>
 <td>HTML, SCSS, JavaScript (ES6), animation, Fetch API, Gulp</td>
