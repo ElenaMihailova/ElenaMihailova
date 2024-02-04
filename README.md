@@ -79,6 +79,7 @@
  <tr>
 <td><a href="https://github.com/ElenaMihailova/React-Slider">React Slider Carousel</a></td>
 <td> <a href="https://statuesque-chebakia-474301.netlify.app"> React Slider Carousel </a>
+   
 <a href="https://dulcet-melomakarona-354249.netlify.app">React Slider Carousel + Swiper </a></td>
 <td>React, Swiper</td>
 </tr>
