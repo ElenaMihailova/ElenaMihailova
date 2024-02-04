@@ -77,6 +77,12 @@
 <td>JavaScript / TypeScript, Webpack, ESLint, Prettier,Jest</td>
  </tr>
  <tr>
+<td><a href="https://github.com/ElenaMihailova/React-Slider">React Slider Carousel</a></td>
+<td> <a href="https://statuesque-chebakia-474301.netlify.app"> React Slider Carousel </a>
+<a href="https://dulcet-melomakarona-354249.netlify.app">React Slider Carousel + Swiper </a></td>
+<td>React, Swiper</td>
+</tr>
+ <tr>
 <td><a href="https://github.com/ElenaMihailova/Fitness-center/">Фитнес-центр SUPERGYM</a></td>
 <td> <a href="https://elenamihailova.github.io/Fitness-center/"> Сайт фитнес-центра. </a></td>
 <td>HTML, SCSS, JavaScript (ES6), animation, Fetch API, Gulp</td>
