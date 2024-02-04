@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td>Frontend:</td>
-<td>JS, React</td>
+<td>JS, React, TypeScript</td>
 </tr>
 <tr>
 <td>Code bundlers:</td>
