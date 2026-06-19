@@ -6,7 +6,7 @@
 <a href="https://github.com/ElenaMihailova">
 <img alt="Elena's Github" width="48px" src="https://user-images.githubusercontent.com/96042722/194076035-fe6ced61-088c-4302-b616-6c21e5542f0b.svg" style="max-width: 100%;">
 </a>
-<a href="https://t.me/Elena_Mihailova_tm" rel="nofollow">
+<a href="https://t.me/Elena_Mihailova_dev" rel="nofollow">
 <img alt="Elena's Telegram" width="48px" src="https://user-images.githubusercontent.com/96042722/194076220-46ca2144-4110-4eb1-a86d-1c6facef307e.svg" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/elena.mikhailova.77">
 <img src="https://user-images.githubusercontent.com/96042722/194076727-7077d8c1-bc1d-4cab-84b3-a16f7664fab9.svg" alt="Elena's facebook" width="48px"/></a>
