@@ -103,17 +103,6 @@
 <td><a href="https://elenamihailova.github.io/Drink2go/">Drink2Go is an online coffee drink store.</a></td>
 <td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
 </tr>
-<tr> 
-<tr> 
-<td><a href="https://github.com/ElenaMihailova/1959447-keksobooking-26">Keksobooking</a></td>
-<td><a href="https://elenamihailova.github.io/1959447-keksobooking-26/"> Website which shows the living-places where you can stay during your holidays in Japan.<a/></td>
-<td>JavaScript (ES6), Fetch API, Leaflet.js, Gulp</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ElenaMihailova/1959447-sedona-26">Sedona</a></td>
-   <td><a href="https://elenamihailova.github.io/1959447-sedona-26/">The city's website.</a></td>
-<td>HTML, LESS, JavaScript (ES6), Gulp</td>
-</tr>
 <!-- <tr>
 <td><a href="https://github.com/ElenaMihailova/1959447-gllacy-33">Gllacy shop</a></td>
 <td>Online and offline store for the sale of ice cream of its own production</td>
