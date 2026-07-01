@@ -27,5 +27,3 @@ but I make the decisions and check every change.
 - **UI** — SCSS, Tailwind, Figma-to-code, i18n, accessible production UI
 - **Testing** — Jest, React Testing Library, Playwright
 - **Tooling** — Vite, Webpack, Storybook, Git, CI/CD
-
-<sub>Outside work, I run long distance — the same steadiness I bring to code.</sub>
