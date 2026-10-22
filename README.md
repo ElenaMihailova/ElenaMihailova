@@ -1,7 +1,10 @@
 <a href="https://elena-mikhailova.vercel.app/#gh-light-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build interfaces people trust with their money." src="assets/banner-light.png" width="100%" /></a><a href="https://elena-mikhailova.vercel.app/#gh-dark-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build interfaces people trust with their money." src="assets/banner-dark.png" width="100%" /></a>
 
 <p align="center">
-  <a href="https://elena-mikhailova.vercel.app/"><img alt="" height="16" src="assets/icons/portfolio.png" width="16" /> <b>Portfolio</b></a> &nbsp;·&nbsp; <a href="mailto:mihailova.dev@gmail.com"><img alt="" height="16" src="assets/icons/email.png" width="16" /> <b>Email</b></a> &nbsp;·&nbsp; <a href="https://t.me/Elena_Mikhailova_dev"><img alt="" height="16" src="assets/icons/telegram.png" width="16" /> <b>Telegram</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/elena-mikhailova-dev"><img alt="" height="16" src="assets/icons/linkedin.png" width="16" /> <b>LinkedIn</b></a>
+  <a href="https://elena-mikhailova.vercel.app/"><img alt="Portfolio" height="30" src="assets/links/portfolio.png" width="112" /></a>
+  <a href="mailto:mihailova.dev@gmail.com"><img alt="Email" height="30" src="assets/links/email.png" width="112" /></a>
+  <a href="https://t.me/Elena_Mikhailova_dev"><img alt="Telegram" height="30" src="assets/links/telegram.png" width="112" /></a>
+  <a href="https://www.linkedin.com/in/elena-mikhailova-dev"><img alt="LinkedIn" height="30" src="assets/links/linkedin.png" width="112" /></a>
 </p>
 
 Checkout and subscription flows in React and TypeScript. AI content pipelines with automated quality control. And an accountant’s eye for the numbers: before tech, I spent 15 years as a chief accountant.
