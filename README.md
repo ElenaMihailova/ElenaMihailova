@@ -26,13 +26,13 @@ Based in Novi Sad, Serbia · Open to remote work and relocation
 
 | Area | What I use |
 | --- | --- |
-| AI product engineering | Automated visual QA, error analysis, read-only tool-using agents, Claude and OpenAI APIs, Python |
-| Product UI | TypeScript, React, Next.js, React Native, Redux Toolkit, Tailwind CSS / SCSS, WCAG, i18n & RTL |
+| AI product engineering | Automated visual QA, error analysis, read-only tool-using agents, Claude and OpenAI APIs, Node.js, Python |
+| Product UI | TypeScript, React, React Native, Redux Toolkit, Tailwind CSS / SCSS, WCAG, i18n & RTL |
 | Payments, auth & real-time | Stripe, Klarna, config-driven checkout, Firebase Auth / SSO, Stream Chat / WebSocket |
 | Quality & delivery | Jest, React Testing Library, Playwright, Storybook, GitHub Actions, Vite, Claude Code, Cursor |
 
 <p>
-  <img alt="TypeScript, React, Next.js, Redux, Sass, Tailwind CSS, Firebase, Python, Jest, Vite, GitHub Actions, Figma" src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,sass,tailwind,firebase,python,jest,vite,githubactions,figma&perline=12" />
+  <img alt="TypeScript, React, Node.js, Redux, Sass, Tailwind CSS, Firebase, Python, Jest, Vite, GitHub Actions, Figma" src="https://skillicons.dev/icons?i=ts,react,nodejs,redux,sass,tailwind,firebase,python,jest,vite,githubactions,figma&perline=12" />
 </p>
 
 ## On GitHub
