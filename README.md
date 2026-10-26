@@ -1,4 +1,4 @@
-<a href="https://elena-mikhailova.vercel.app/#gh-light-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build the features a product can’t afford to get wrong." src="assets/banner-light.png" width="100%" /></a><a href="https://elena-mikhailova.vercel.app/#gh-dark-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build the features a product can’t afford to get wrong." src="assets/banner-dark.png" width="100%" /></a>
+<a href="https://elena-mikhailova.vercel.app/#gh-light-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build the features a product can’t afford to get wrong." src="assets/banner-light-v2.png" width="100%" /></a><a href="https://elena-mikhailova.vercel.app/#gh-dark-mode-only"><img alt="Elena Mikhailova — Frontend & AI Product Engineer. I build the features a product can’t afford to get wrong." src="assets/banner-dark-v2.png" width="100%" /></a>
 
 <p align="center">
   <a href="https://elena-mikhailova.vercel.app/"><img alt="Portfolio" height="30" src="assets/links/portfolio.png" width="112" /></a>
